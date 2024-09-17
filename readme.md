@@ -1,12 +1,12 @@
 # Project m1-preview
 
 ## Introduction
-I tested the prompt of the G1 project on the mistral small model (22b), which was recently released by mistral. And it worked for the `strawberry` question showed by OpenAI. But didn't work for a number comparison question.
+I tested the prompt of the g1 project on the mistral small model (22b), which was recently released by mistral. And it worked for the `strawberry` question showed by OpenAI. But didn't work for a number comparison question.
 
 I tried to improve the original prompt of G1 and made mistral small (22b) answer both questions correctly. And made it work. 
 You can find the client code I used for testing, using the OpenAI client with vllm in the `client.py` file in the repository.
 
-[G1 project with the original prompt](https://github.com/bklieger-groq/g1)
+[g1 project with the original prompt](https://github.com/bklieger-groq/g1)
 ## Improved System Prompt
 Here is the updated system prompt:
 ```
