@@ -31,9 +31,8 @@ json
 ## Results
 Here are the results and output of my testing with mistral small:
 
+### Strawberry Question
 Input question: `How many R's are in strawberry?`
-
-Task 1 result:
 ```json
 {
     "title": "Identifying Key Information",
@@ -66,9 +65,10 @@ Task 1 result:
 }
 ```
 
+
+### Number Comparision Problem
 Input question: `Which is larger, .9 or .11?`
 
-Task 1 result:
  ```json
 {
     "title": "Initial Comparison",
