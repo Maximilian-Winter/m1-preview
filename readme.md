@@ -32,6 +32,7 @@ json
 Here are the results and output of my testing with mistral small:
 
 Input question: `How many R's are in strawberry?`
+
 Task 1 result:
 ```json
 {
@@ -66,6 +67,7 @@ Task 1 result:
 ```
 
 Input question: `Which is larger, .9 or .11?`
+
 Task 1 result:
  ```json
 {
