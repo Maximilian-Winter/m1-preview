@@ -6,7 +6,7 @@ I tested the prompt of the G1 project on the mistral small model (22b), which wa
 I tried to improve the original prompt of G1 and made mistral small (22b) answer both questions correctly. And made it work. 
 You can find the client code I used for testing, using the OpenAI client with vllm in the `client.py` file in the repository.
 
-[G1 project with the original prompt](!https://github.com/bklieger-groq/g1)
+[G1 project with the original prompt](https://github.com/bklieger-groq/g1)
 ## Improved System Prompt
 Here is the updated system prompt:
 ```
